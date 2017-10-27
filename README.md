@@ -8,3 +8,7 @@ Requirement:
 3. Output longest sentece
 4. Check if any palindrome, output number of palindromes
 5. Output longest palindrome
+
+Update:
+Added "pali.pl" file. 
+It's the same palindrome program solution, but written in Perl.
